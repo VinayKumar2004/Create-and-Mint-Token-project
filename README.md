@@ -83,3 +83,9 @@ Ensure you have the appropriate account connected to your Ethereum client or Rem
 Install MetaMask extension in your web browser.
 Configure MetaMask to connect to the appropriate network (e.g., Localhost or Testnet).
 Deploy the MyToken contract to the chosen network.
+
+## Authors
+Vinay Kumar 21BCS7595@cuchd.in
+
+## License
+This project is licensed under the Vinay Kumar License - see the LICENSE.md file for details
