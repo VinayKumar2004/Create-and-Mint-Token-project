@@ -12,14 +12,19 @@ Burning: Any user can burn their own tokens to reduce the total supply.
 
 ## Deployment
 Clone or download this repository.
+
 https://github.com/VinayKumar2004/Create-and-Mint-Token-project
 
 Install the required dependencies using npm:
 
 npm install
+
 npm install --save-dev "hardhat@^2.16.1" "@nomicfoundation/hardhat-toolbox@^2.0.0"
+
 npx hardhat
+
 npm install -g @remix-project/remixd
+
 remixd -s ./ --remix-ide https://remix.ethereum.org
 
 Set up a development blockchain network, such as Hardhat, and update the network configuration in the hardhat.config.js file if needed.
